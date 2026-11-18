@@ -29,7 +29,7 @@ GitHub 上有非常多的开源项目，涵盖网站开发、工具软件、游�
 ### PR是什么 
 改完后向原作者提交合并申请，说明改了什么、为什么改；对方可以拒绝，也可以让你修改。
 ### 我从哪里得知
-是deeepseek告诉我的，一开始是让 DeepSeek 给我解释 Fork 和 PR 的区别，然后我去 GitHub 官方帮助文档里核对了 Fork a repo 和 About pull requests 两个页面，以确保我的理解是对的。
+是deepseek告诉我的，一开始是让 DeepSeek 给我解释 Fork 和 PR 的区别，然后我去 GitHub 官方帮助文档里核对了 Fork a repo 和 About pull requests 两个页面，以确保我的理解是对的。
 ## 四 我打开github也用了好久的时间
 在刚开始打开的时候，我的github一直显示加载不进去，在通过deepseek的检查后，我意识到是服务器的延迟太重，可是当我打开学校的网页的时候却能很快的打开，我觉得这是代理服务器的问题，于是我就装了个梯子。
 ## 五 这篇文档为什么算简洁
