@@ -12,6 +12,6 @@
 - 网页上传：不用装任何软件，适合少量文档
 - git 命令行：适合批量传代码
 - 桌面客户端：图形界面，文件多的时候方便
-  ### 六 我参考的 Profile README
+##  四  我参考的 Profile README
 - https://github.com/sindresorhus/sindresorhus 学到的是极简也能高级
 - https://github.com/abhisheknaiidu/awesome-github-profile-readme 学到的是先逛合集找风格
