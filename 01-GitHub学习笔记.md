@@ -14,4 +14,4 @@
 - 桌面客户端：图形界面，文件多的时候方便
   ### 六 我参考的 Profile README
 - https://github.com/sindresorhus/sindresorhus 学到的是极简也能高级
-- https://github.com/abhisheknaiidu/awesome-github-profile-readme学到的是先逛合集找风格
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme 学到的是先逛合集找风格
