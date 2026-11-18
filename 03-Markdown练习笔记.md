@@ -27,6 +27,5 @@
 > 可以换行继续写。
 
 ## 5. 代码块
-（输入三个反引号加语言名称）
 ```python
 print("Hello, Markdown!")
